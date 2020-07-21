@@ -47,6 +47,7 @@ header {
   padding: 0.5rem;
   outline: none;
   border-radius: 10px;
+  cursor: pointer;
 }
 
 .search,
@@ -72,10 +73,10 @@ header {
   border: 1px solid black;
 }
 
-.preview:hover,
+/* .preview:hover,
 .submit:hover {
   background: #ca0036;
-}
+} */
 
 .preview {
   padding: 0.5rem;
